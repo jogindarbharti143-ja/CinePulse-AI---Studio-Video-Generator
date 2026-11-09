@@ -1,0 +1,6 @@
+{
+  "name": "CinePulse AI - Studio Video Generator",
+  "description": "Production-grade AI video generation and editing studio with text-to-video, image animation, multi-scene storyboarding, camera controls, and timeline editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
